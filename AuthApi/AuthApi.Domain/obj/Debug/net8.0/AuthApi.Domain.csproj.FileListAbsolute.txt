@@ -1,0 +1,16 @@
+C:\Users\denga\source\repos\ProjectEco\AuthApi\AuthApi.Domain\bin\Debug\net8.0\AuthApi.Domain.deps.json
+C:\Users\denga\source\repos\ProjectEco\AuthApi\AuthApi.Domain\bin\Debug\net8.0\AuthApi.Domain.dll
+C:\Users\denga\source\repos\ProjectEco\AuthApi\AuthApi.Domain\bin\Debug\net8.0\AuthApi.Domain.pdb
+C:\Users\denga\source\repos\ProjectEco\AuthApi\AuthApi.Domain\bin\Debug\net8.0\SharedLib.dll
+C:\Users\denga\source\repos\ProjectEco\AuthApi\AuthApi.Domain\bin\Debug\net8.0\SharedLib.pdb
+C:\Users\denga\source\repos\ProjectEco\AuthApi\AuthApi.Domain\obj\Debug\net8.0\AuthApi.Domain.csproj.AssemblyReference.cache
+C:\Users\denga\source\repos\ProjectEco\AuthApi\AuthApi.Domain\obj\Debug\net8.0\AuthApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denga\source\repos\ProjectEco\AuthApi\AuthApi.Domain\obj\Debug\net8.0\AuthApi.Domain.AssemblyInfoInputs.cache
+C:\Users\denga\source\repos\ProjectEco\AuthApi\AuthApi.Domain\obj\Debug\net8.0\AuthApi.Domain.AssemblyInfo.cs
+C:\Users\denga\source\repos\ProjectEco\AuthApi\AuthApi.Domain\obj\Debug\net8.0\AuthApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\denga\source\repos\ProjectEco\AuthApi\AuthApi.Domain\obj\Debug\net8.0\AuthApi.Domain.sourcelink.json
+C:\Users\denga\source\repos\ProjectEco\AuthApi\AuthApi.Domain\obj\Debug\net8.0\AuthApi..2C715E53.Up2Date
+C:\Users\denga\source\repos\ProjectEco\AuthApi\AuthApi.Domain\obj\Debug\net8.0\AuthApi.Domain.dll
+C:\Users\denga\source\repos\ProjectEco\AuthApi\AuthApi.Domain\obj\Debug\net8.0\refint\AuthApi.Domain.dll
+C:\Users\denga\source\repos\ProjectEco\AuthApi\AuthApi.Domain\obj\Debug\net8.0\AuthApi.Domain.pdb
+C:\Users\denga\source\repos\ProjectEco\AuthApi\AuthApi.Domain\obj\Debug\net8.0\ref\AuthApi.Domain.dll
