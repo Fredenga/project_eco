@@ -1,0 +1,12 @@
+C:\Users\denga\source\repos\ProjectEco\SharedLib\SharedLib\bin\Debug\net8.0\SharedLib.deps.json
+C:\Users\denga\source\repos\ProjectEco\SharedLib\SharedLib\bin\Debug\net8.0\SharedLib.dll
+C:\Users\denga\source\repos\ProjectEco\SharedLib\SharedLib\bin\Debug\net8.0\SharedLib.pdb
+C:\Users\denga\source\repos\ProjectEco\SharedLib\SharedLib\obj\Debug\net8.0\SharedLib.csproj.AssemblyReference.cache
+C:\Users\denga\source\repos\ProjectEco\SharedLib\SharedLib\obj\Debug\net8.0\SharedLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denga\source\repos\ProjectEco\SharedLib\SharedLib\obj\Debug\net8.0\SharedLib.AssemblyInfoInputs.cache
+C:\Users\denga\source\repos\ProjectEco\SharedLib\SharedLib\obj\Debug\net8.0\SharedLib.AssemblyInfo.cs
+C:\Users\denga\source\repos\ProjectEco\SharedLib\SharedLib\obj\Debug\net8.0\SharedLib.csproj.CoreCompileInputs.cache
+C:\Users\denga\source\repos\ProjectEco\SharedLib\SharedLib\obj\Debug\net8.0\SharedLib.dll
+C:\Users\denga\source\repos\ProjectEco\SharedLib\SharedLib\obj\Debug\net8.0\refint\SharedLib.dll
+C:\Users\denga\source\repos\ProjectEco\SharedLib\SharedLib\obj\Debug\net8.0\SharedLib.pdb
+C:\Users\denga\source\repos\ProjectEco\SharedLib\SharedLib\obj\Debug\net8.0\ref\SharedLib.dll
